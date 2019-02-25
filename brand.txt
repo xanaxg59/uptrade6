@@ -1,0 +1,3 @@
+#484848 grey
+#FFFFFF white
+#1A39C3 blue
